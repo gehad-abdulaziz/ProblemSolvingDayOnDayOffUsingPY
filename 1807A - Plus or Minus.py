@@ -5,3 +5,4 @@ for _ in range(n):
         print("+")
     else:
         print("-")
+    
