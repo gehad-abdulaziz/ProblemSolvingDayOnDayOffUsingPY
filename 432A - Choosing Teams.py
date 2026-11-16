@@ -1,0 +1,5 @@
+i , j =map(int , input().split())
+list1 = list(map(int , input().split()))
+list2=list(map(lambda x: 5-x, list1))
+result=len(list(filter(lambda x: x>=j, list2)))
+print(result//3)
