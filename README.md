@@ -19,3 +19,4 @@ This repo documents my consistent journey of sharpening my algorithmic thinking,
 - Build long-term consistency through a sustainable **day-on, day-off** routine.
 - Master core problem-solving patterns (Two Pointers, Sliding Window, Dynamic Programming, Graph Theory, Greedy, and Data Structures).
 - Write clean, readable, and time/space-optimized Python solutions.
+## MY ACCOUNT :https://codeforces.com/profile/Gehad_Abdulaziz
