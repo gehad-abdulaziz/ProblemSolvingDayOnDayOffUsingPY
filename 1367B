@@ -1,0 +1,18 @@
+t= int(input())
+for _ in range(t):
+    s= int(input())
+    listt= list(map(int,input().split()))
+    count_ev=0
+    count_od=0
+    for i in range(len(listt)):
+        if i%2==0:
+            if listt[i]%2!=0:
+                count_od+=1
+        else:
+            if listt[i]%2==0:
+                count_ev+=1
+    if count_ev==count_od:
+        print(count_ev)
+    else:
+        print(-1)
+            
